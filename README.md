@@ -53,5 +53,5 @@ rm -rf <file>
 echo <cria mensagem>
 ```
 ## 📑 Referências 
-- [Edicição de arquivos markdown](https://readme.so)
+- [Edificação de arquivos markdown](https://readme.so)
 - [Atlassian - Use bem o Git](https://www.atlassian.com/br/git)
